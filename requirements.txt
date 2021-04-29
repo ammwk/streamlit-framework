@@ -9,4 +9,3 @@ bokeh
 requests
 yfinance
 pandas
-calendar
